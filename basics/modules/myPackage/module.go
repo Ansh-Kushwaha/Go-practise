@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Ansh-Kushwaha/Go-practise/tree/mainbasics/modules/greetings"
+	"github.com/Ansh-Kushwaha/Go-practise/tree/main/basics/modules/greetings"
 )
 
 func main() {
