@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Ansh-Kushwaha/Go-practise/basics/variables"
+	"github.com/Ansh-Kushwaha/Go-practise/basics"
 )
 
 func main() {
-	variables()
+	basics.Variables()
 }

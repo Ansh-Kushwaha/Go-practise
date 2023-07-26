@@ -2,7 +2,7 @@ package basics
 
 import "fmt"
 
-func variables() {
+func Variables() {
 	// Method 1
 	var num int = 12
 	fmt.Printf("num = %v", num)
